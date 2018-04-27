@@ -1,0 +1,2 @@
+model_checkpoint_path: "ntk_asteroid_dqn-10000"
+all_model_checkpoint_paths: "ntk_asteroid_dqn-10000"
