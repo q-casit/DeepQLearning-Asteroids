@@ -3,7 +3,7 @@ Light Deep Q Network Learning in Asteroids game
 
 This is code for Asteroids game (which is a typical vector game) with Deep Q Network Algorithm , a little bit more complexity than FlappyBird. 
 
-The game has 5 action inputs, adopt the basic Deep Q network algorithm from DeepLearningFlappyBird, but rewrite the network layers, reshape sample input size, batch cache, reward with more action states, etc.
+The game has 5 action inputs, adopt the basic Deep Q network algorithm from DeepLearningFlappyBird, but rewrite the network layers which has 4 convolution neural network layers inside hidden layers, reshape samples' input size, design batch cache and reward with different action states, etc.
 
 Dependencies:
 
