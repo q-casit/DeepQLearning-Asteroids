@@ -121,7 +121,6 @@ class DQN_Manager:
     def trainQNetwork(self):
         
         # Step 1: obtain random minibatch from replay memory
-        ##minibatch = random.sample(self.replayMemory,BATCH_SIZE)
         ###only train when collect num of BATCH_SIZE sample in self.replayMemory
         len_q = len(self.replayMemory)
         if len(self.replayMemory) > BATCH_SIZE:
