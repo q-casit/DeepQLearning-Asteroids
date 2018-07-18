@@ -5,7 +5,7 @@ This is code for Asteroids game (which is a typical vector game) with Deep Q Net
 
 The game has 5 action inputs, adopt the basic Deep Q network algorithm from DeepLearningFlappyBird, but rewrite the network layers which has 4 convolution neural network layers inside hidden layers, reshape samples' input size, design batch cache and reward with different action states, etc.
 
-This code could be to improve and use multiple Q tables network.
+This code could to be improved and use multiple Q tables network.
 
 ![Alt text](https://github.com/q-casit/DeepQLearning-Asteroids/blob/master/Video_2018-07-02_223638.gif?raw=true "dqn asteroids")
 
